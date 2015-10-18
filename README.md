@@ -1,6 +1,8 @@
-# Mathematical finance project.
+## Mathematical Finance REU Project
 
-### Knowledge and Tools: Sampling, Modeling, Financial Mathematics, Statistics, Matlab
+#####Knowledge and Tools: Sampling, Modeling, Financial Mathematics, Statistics, Matlab
+
+######Time: Fall 2014
 
 The question of constructing an optimal stock portfolio has been a very important topic in financial investing, and various propositions have been developed since 1950s [1]. Here we intend to propose and test some strategies with a unique approach. There is simply no universal optimal portfolio that is appropriate for every investor, since everyone has a dif- ferent investment goal with a unique risk preference. For example, young investors may be willing to take more risk to pursue higher return than senior retirees. Even for investors with same age, income, and education background, they would still have quite different attitudes regarding risk tolerance. With this in mind, we are trying to develop a strategy designed for certain risk characteristics that an investor is willing to take, and expect to achieve a maximum return.
 
